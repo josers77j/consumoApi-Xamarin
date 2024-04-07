@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aRPzEiiFHmn1qIoM6WGG5eyKrm2q6fzTqs4Wx+LjkWdVDonnBjK1FFO7S+4GraH/2MxRXp53cPV8fXD0eS1AZw==",
+  "dgSpecHash": "dFBJ+oGuujP8YbFvWdrcaNL18l2dvGTNZgdvVSB61BTiGeBGMlKlacIqacms6m6OwbFYgX00326bIbvDH9PkIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joser\\source\\repos\\productoApi\\productoApi\\productoApi.csproj",
+  "projectFilePath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoApi\\productoApi\\productoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joser\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\joser\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

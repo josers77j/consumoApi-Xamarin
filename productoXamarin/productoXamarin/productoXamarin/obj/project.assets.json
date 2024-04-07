@@ -591,11 +591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj",
+      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj",
       "projectName": "productoXamarin",
-      "projectPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj",
+      "projectPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\obj\\",
+      "outputPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jLk76p4xDL6VInqGvH28omueNuOHYJAN6aj6JH8LMRBvj0VW26UJwuvb/LKDjiS+GSu0YNaXAGpdJDhNVi2Qpg==",
+  "dgSpecHash": "cDcvzkSjqMT1iFcGhn0llucPEKcat+jr7mVA6VcMkkbLsidjS1hmfR6uvjbbGUb/eCJ7jiMYz6cpfwuXZcMlQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.Android\\productoXamarin.Android.csproj",
+  "projectFilePath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.Android\\productoXamarin.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joser\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\joser\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

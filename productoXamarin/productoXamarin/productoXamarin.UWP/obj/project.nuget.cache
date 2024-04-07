@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0pkQ74gzYg7TqdVaJq8YsnDUpOfpadK28squdxHGxJO9YO+/Gt7PJEXNluYKKCImQW4v+j093gEao8b+oRTtqA==",
+  "dgSpecHash": "VBPyzHwbNzrxQHCyg74Lpab2codyrUD1HlmJW0JFLyJcuz6BsfgTWliWxiIl+P2MpPlA6hQmyhuBO5AFbCdtqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.UWP\\productoXamarin.UWP.csproj",
+  "projectFilePath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.UWP\\productoXamarin.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joser\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\joser\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

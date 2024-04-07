@@ -3458,11 +3458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.Android\\productoXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.Android\\productoXamarin.Android.csproj",
       "projectName": "productoXamarin.Android",
-      "projectPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.Android\\productoXamarin.Android.csproj",
+      "projectPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.Android\\productoXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3483,8 +3483,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj": {
-              "projectPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj"
+            "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj": {
+              "projectPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj"
             }
           }
         }

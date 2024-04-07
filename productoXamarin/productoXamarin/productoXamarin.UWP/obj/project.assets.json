@@ -11513,11 +11513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.UWP\\productoXamarin.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.UWP\\productoXamarin.UWP.csproj",
       "projectName": "productoXamarin.UWP",
-      "projectPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.UWP\\productoXamarin.UWP.csproj",
+      "projectPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.UWP\\productoXamarin.UWP.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.UWP\\obj\\",
+      "outputPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -11539,8 +11539,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj": {
-              "projectPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj"
+            "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj": {
+              "projectPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj"
             }
           }
         }

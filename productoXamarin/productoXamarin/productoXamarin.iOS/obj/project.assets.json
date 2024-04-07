@@ -1353,11 +1353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.iOS\\productoXamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.iOS\\productoXamarin.iOS.csproj",
       "projectName": "productoXamarin.iOS",
-      "projectPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.iOS\\productoXamarin.iOS.csproj",
+      "projectPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.iOS\\productoXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin.iOS\\obj\\",
+      "outputPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1378,8 +1378,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj": {
-              "projectPath": "C:\\Users\\joser\\source\\repos\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj"
+            "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj": {
+              "projectPath": "C:\\Users\\joser\\source\\repos\\proyectoStore\\productoXamarin\\productoXamarin\\productoXamarin\\productoXamarin.csproj"
             }
           }
         }
