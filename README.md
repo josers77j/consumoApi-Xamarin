@@ -4,19 +4,19 @@
 
 ## Script sql necesario
 
-create database store;
-go;
-use store;
-go;
-create table products(
-id int primary key identity,
-product_name varchar(100),
-product_price decimal,
-product_stock int,
-product_status tinyint
-);
-go;
-insert into products values ('carrito',5,100,0);
+    create database store;
+    go;
+    use store;
+    go;
+    create table products(
+    id int primary key identity,
+    product_name varchar(100),
+    product_price decimal,
+    product_stock int,
+    product_status tinyint
+    );
+    go;
+    insert into products values ('carrito',5,100,0);
 
 ## modificar archivo appsetting.json de ser necesario para ejecutar correctamente la API  
 
