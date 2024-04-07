@@ -1,0 +1,15 @@
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\bin\Debug\netstandard2.0\productoXamarin.deps.json
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\bin\Debug\netstandard2.0\productoXamarin.dll
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\bin\Debug\netstandard2.0\ref\productoXamarin.dll
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\bin\Debug\netstandard2.0\productoXamarin.pdb
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\productoXamarin.csproj.AssemblyReference.cache
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\productoXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\productoXamarin.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\productoXamarin.AssemblyInfo.cs
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\productoXamarin.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\productoXamarin.dll
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\refint\productoXamarin.dll
+C:\Users\joser\source\repos\productoXamarin\productoXamarin\productoXamarin\obj\Debug\netstandard2.0\productoXamarin.pdb
